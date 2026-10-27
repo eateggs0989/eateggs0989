@@ -90,6 +90,7 @@ I believe in learning by building, experimenting, and understanding technology a
 For me, the goal is not just to use AI, but to understand how it works and develop the ability to build it myself.
 
 **Researching. Experimenting. Building eateggsAI.**
+---
 
 <!--
 **eateggs0989/eateggs0989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
