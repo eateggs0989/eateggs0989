@@ -44,11 +44,14 @@ eateggsAI represents my ongoing journey of learning, experimentation, and develo
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eateggs0989&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eateggs0989&show_icons=true&theme=catppuccin_mocha)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eateggs0989&theme=tokyonight)
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eateggs0989&theme=catppuccin-mocha)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eateggs0989&layout=compact&theme=tokyonight)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eateggs0989&layout=compact&theme=catppuccin_mocha)
 
 ## ⚙️ Engineering Projects
 
