@@ -45,7 +45,7 @@ eateggsAI represents my ongoing journey of learning, experimentation, and develo
 ## 📊 My GitHub Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eateggs0989&show_icons=true&theme=catppuccin_mocha)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eateggs0989&show_icons=true&theme=tokyonight)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eateggs0989&theme=catppuccin-mocha)
